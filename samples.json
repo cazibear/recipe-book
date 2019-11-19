@@ -1,0 +1,101 @@
+[
+	{
+		"name": "Chunky Sausage & Tomato Pasta",
+		"author": "Jo Pratt",
+		"subtitle": "Jazz up sausages with this spicy tomato pasta",
+		"source": "https://www.bbcgoodfood.com/recipes/2625/chunky-sausage-and-tomato-pasta",
+		"prep-time": 5,
+		"cook-time": 20,
+		"serves": 4,
+		"difficulty": "easy",
+		"freezable": true,
+		"nutrition": {
+			"kcal":      {"amount": 655, "unit": "kcal"},
+			"fat":       {"amount": 16,  "unit": "g"},
+			"saturates": {"amount": 5,   "unit": "g"},
+			"carbs":     {"amount": 103, "unit": "g"},
+			"sugars":    {"amount": 0,   "unit": "g"},
+			"fibre":     {"amount": 5,   "unit": "g"},
+			"protein":   {"amount": 24,  "unit": "g"},
+			"salt":      {"amount": 1,   "unit": "g"}
+		},
+		"ingredients": [
+			"1 tbsp olive oil",
+			"4 thick pork sausages, cut into bite-sized pieces",
+			"2 garlic cloves, crushed",
+			"200ml medium white wine",
+			"1 tbsp tomato purée",
+			"400g can chopped tomatoes",
+			"500g pack rigatoni or penne",
+			"Handful basil leaves, torn, (optional)",
+			"Parmesan, to serve"
+		],
+		"method": [
+			"Heat the olive oil in a heavy-based pan (preferably not non-stick) and add the sausages. Fry for about 8 mins until golden and cooked through. Tip in the garlic and fry for 1 min. Pour in the white wine and boil until it has reduced by half.",
+			"Stir in the tomato purée and tomatoes, and season to taste. Simmer for 15 mins until the sauce is rich and thick.",
+			"While the sauce cooks, boil the pasta according to pack instructions and drain. Stir in the basil if using, and cooked pasta into the sauce, then serve in bowls with grated or shaved Parmesan."
+		],
+		"paragrahps": [
+			"Making it veggie or spicy - Use veggie sausages, such as Cauldron Vegetarian Lincolnshire sausages, available from supermarkets. Or to make it spicy, add a pinch of dried chilli or 1 chopped red chilli as you fry the sausages."
+		]
+	},
+	{
+		"name": "Cheesy Chicken Parmesan",
+		"author": "Elise Bauer",
+		"subtitle": "Chicken Parmesan is a classic for a reason! Chicken cutlets, breaded and fried, smothered with tomato sauce, and covered with mozzarella and Parmesan cheeses are so good. Serve with pasta or on a roll.",
+		"source": "https://www.simplyrecipes.com/recipes/chicken_parmesan/",
+		"prep-time": 10,
+		"cook-time": 40,
+		"serves": 4,
+		"ingredients": [
+			"1/2 large yellow onion, grated (don't cut onion in half, just grate half of a whole onion), about 3/4 cup of grated onion",
+			"1/4 cup extra virgin olive oil",
+			"2 medium garlic cloves, minced",
+			"1 (28-ounce) can crushed tomatoes",
+			"1 teaspoon dried oregano",
+			"Pinch red pepper flakes",
+			"Pinch sugar",
+			"4 chicken breast cutlets (1 1/4 to 1 1/2 pounds)",
+			"Salt",
+			"2 large eggs",
+			"1 cup breadcrumbs, Panko or homemade",
+			"1 cup freshly grated Parmesan cheese",
+			"1/4 cup extra virgin olive oil",
+			"2 tablespoons fresh basil leaves, thinly sliced",
+			"8 ounces mozzarella cheese, sliced"
+		],
+		"method": [
+			[
+				"Start the sauce: Heat the olive oil in a saucepan on medium-high heat. Add the onions and sauté for 2 to 3 minutes. Add the minced garlic. Cook until fragrant, about a minute more.",
+				"Then add the crushed tomatoes, oregano, red pepper flakes, and sugar. Bring to a simmer; reduce the heat to maintain the simmer. Cook, uncovered while you prepare the chicken (about 10 to 12 minutes)."
+			],
+			"Preheat oven to 400°F.",
+			"Pound cutlets thin: Place the chicken cutlets one at a time between two layers of plastic wrap or wax paper. Use a meat hammer, mallet, rolling pin, or even a heavy empty wine bottle to pound or roll the chicken pieces to an even thickness of 1/4 to 1/2-inch. Sprinkle salt on both sides of the cutlets.",
+			"Prepare breadcrumbs and eggs for dredging: In a shallow bowl (large enough to dredge the cutlets), mix together the breadcrumbs, 1/2 cup Parmesan, and pinch of salt. In separate shallow bowl, whisk together the eggs.",
+			[
+				"Dredge cutlets and brown them: Heat 1/4 cup olive oil in a large sauté pan on medium-high heat until the oil is shimmering (not smoking) and a piece of breading dropped into it sizzles.",
+				"Working one cutlet at a time, dip the chicken cutlet into the egg mixture and then into the breadcrumbs. Working in batches as to not crowd the pan, place the dredged cutlets into the pan.",
+				"Lower the heat to medium and gently fry the chicken cutlets until they are golden brown on each side, about 3 to 4 minutes per side."
+			],
+			[
+				"Prep the chicken for the oven: Spread enough tomato sauce to thickly coat the bottom of a 9x13 casserole pan or baking dish. Once the cutlets are browned on both sides, arrange them on top of the tomato sauce in the baking dish.",
+				"Spoon tomato sauce over each of the cutlets. Sprinkle the tops with sliced basil. Then lay slices of mozzarella over each cutlet and sprinkle with the remaining 1/2 cup of Parmesan cheese."
+			],
+			"Bake: Bake in the oven at 400°F for 10 to 12 minutes, or until the mozzarella begins to brown.",
+			"Serve: Serve with pasta and the remaining sauce, or in a large roll."
+		],
+		"paragrahps": [
+			"Chicken Parmesan is a classic for a reason! Chicken cutlets, breaded and fried, smothered with tomato sauce, and covered with mozzarella and Parmesan cheeses are so good. Serve with pasta or on a roll.",
+			"Oh, how we love chicken parmesan—chicken cutlets, breaded and fried, smothered with tomato sauce, covered with mozzarella and Parmesan cheeses, and baked until the cheese is bubbly and melts into every nook and cranny.",
+			"Like its sister recipe, my mother’s parmesan chicken (chicken nuggets dipped in melted butter, breaded and baked), this dish is pure comfort food.",
+			"It’s one of those everyone-should-know-how-to-make recipes. It’s easy and comes together quickly. In fact, it’s hard to mess up! Chicken Parmesan is also one of the best uses I can think of for boneless, skinless, chicken breasts.",			
+			"Pound the chicken thin: Place the chicken cutlets one at a time between two layers of plastic wrap or wax paper. Use a meat hammer, mallet, rolling pin, or even a heavy empty wine bottle to pound or roll the chicken pieces to an even thickness of 1/4 to 1/2-inch.",
+			"Grate the onions: One trick that will save a little time with making the sauce is to peel and grate the onion instead of chopping it. Use the large holes of a box grater. Don’t cut onion in half, just grate half of a whole onion. The onion will cook faster this way, release more of its juices, and your sauce will come together more quickly.",
+			"Buy the best canned tomatoes: Your sauce will only be as good as your tomatoes, so use a good quality canned tomato! We like the Muir Glen brand of crushed tomatoes (fire roasted or with basil). A good canned San Marzano tomato from Italy would work well too. If crushed isn’t available, you can buy canned whole tomatoes and pulse them (with the liquid) in a blender or food processor.",
+			"Make your own breadcrumbs! We like to use stale French bread and run it through the blender or food processor. Check out food processor instructions in this post, How to Make Breadcrumbs.",
+			"Your sauce will only be as good as your tomatoes, so use a good quality canned tomato! We like Muir Glen brand crushed tomatoes (fire roasted or with basil), or Italian San Marzano tomatoes.",
+			"Grating the onion will create smaller onion pieces and release more of the onion's juices, and is faster than chopping."
+		]
+	}
+]
+
