@@ -1,0 +1,28 @@
+\documentclass[12pt]{report}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, top=1.25in, bottom=1.25in, left=1in, right=1in]{geometry}
+\usepackage{blindtext}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+% \usepackage[hyphens]{url}
+\usepackage[hidelinks]{hyperref}
+
+\title{Recipe Book}
+\author{}
+
+\begin{document}
+
+\fontfamily{cmss} \selectfont
+\maketitle
+\tableofcontents
+
+{% for recipe in recipes %}
+	\hlinefill \newpage
+	\chapter{
+		{{ recipe["name"]|escapetex }} - {{ recipe["author"]|escapetex }}
+	}
+{% endfor %}
+
+\end{document}
