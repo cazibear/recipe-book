@@ -382,5 +382,5 @@ TSWLatexianTemp*
 *.lpz
 
 
-# ----- IDE -----
+# ----- Other -----
 .idea/
