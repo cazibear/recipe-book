@@ -18,26 +18,28 @@ def main():
 		enable_async=True,
 		auto_reload=False  # should only load and render once
 	)
-	env.filters["escapetex"] = escapetex
+	env.filters["escape"] = escape
 	template = env.get_template("required.tex")
 	
 	
 	with open("output/result.tex", "w") as f:
 		f.write(template.render(recipes=recipes))
-	
-def escapetex(input):
-	replacements = [
-		("{", r"\{"),
-		("]", r"\}"),
-		("\\", r"\textbackslash{}"),
-		('$',  r'\$'),
-		('%',  r'\%'),
-		('&',  r'\&'),
-		('#',  r'\#'),
-		('_',  r'\_')
-	]
-	mapping = dict((ord(char), replace) for char, replace in replacements)
-	return input.translate(mapping)
+
+def escape(in_text):
+	"""Function to escape any characters that may cause trouble in the latex file"""
+	mapping = {
+		ord('#'):  r"\#",
+		ord('$'):  r"\$",
+		ord('%'):  r"\%",
+		ord('&'):  r"\&",
+		ord("\\"): r"\textbackslash{}",
+		ord("^"):  r"\textasciicircum{}",
+		ord('_'):  r"\_",
+		ord("{"):  r"\{",
+		ord("}"):  r"\}",
+		ord("~"):  r"\textasciitilde{}"
+	}
+	return in_text.translate(mapping)
 
 if __name__ == '__main__':
 	main()
